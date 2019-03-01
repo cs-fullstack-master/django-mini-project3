@@ -24,13 +24,13 @@ THIS IS A SOLO PROJECT.
 
 ================================================================
 
-### BONUS HAPPY HAPPY JOY JOY: 
+### Extra HAPPY HAPPY JOY JOY Bonus: 
 
-Functionality is the key and all that matters for grade. Can be ugly as all get out if works, but feel free to use basic BootStrap (https://getbootstrap.com/docs/4.3/getting-started/introduction/) to gussy things up. 
+Functionality is the key and what matters most for grade. Can be ugly as all get out if works, but asthetics do matter in app design so make the app as visually appealing as time allows. 
+
+Feel free to use your own CSS and/or basic BootStrap (https://getbootstrap.com/docs/4.3/getting-started/introduction/) to gussy things up. 
 
 In addition to wrapping your page content in a ```<div class='container'>``` and maybe throwing your header in a ```<h1 class='jumbotron'>```you might assign any HTML tables ```class='table'``` and any form submit buttons ```<input class="btn btn-primary" type="submit" value="Submit"/>``` for starters, then explore if u have time. You're welcome :-P 
-
-https://www.dictionary.com/browse/gussy--up
 
 ### Extra, Extra Bonus:
 Give me a way to export all this time card data as Comma Separated Values (CSV) so I can easily import into my other system.
