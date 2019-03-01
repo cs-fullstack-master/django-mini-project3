@@ -1,7 +1,5 @@
 # Mini-Project Django
 
-# django-mini-project1
-
 THIS IS A SOLO PROJECT.
 
 * A School needs a website to record the teaching time for each teacher to import it into an invoicing system. 
