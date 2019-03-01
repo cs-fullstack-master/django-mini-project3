@@ -6,7 +6,7 @@ THIS IS A SOLO PROJECT.
 
 * To do this, create an entirely new Django project from scratch. 
 
-* Make a site that will display and mangae time card entries to/from your SQLite database. 
+* Make a site that will display and manage time card entries to/from a SQLite database. 
 
 * The attributes that can be entered in a timecard site should be ```Teacher name, school, subject, hours, date of work, and date of entry```.
 
