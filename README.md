@@ -26,7 +26,7 @@ THIS IS A SOLO PROJECT.
 
 ### Extra HAPPY HAPPY JOY JOY Bonus: 
 
-Functionality is the key and what matters most for grade. Can be ugly as all get out if works, but asthetics do matter in app design so make the app as visually appealing as time allows. 
+Functionality is the key and what matters most for grade. Can be ugly as all get out if works, but aesthetics do matter in app design so make the app as visually appealing as time allows. 
 
 Feel free to use your own CSS and/or basic BootStrap (https://getbootstrap.com/docs/4.3/getting-started/introduction/) to gussy things up. 
 
