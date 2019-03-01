@@ -24,7 +24,7 @@ THIS IS A SOLO PROJECT.
 
 ================================================================
 
-BONUS HAPPY HAPPY JOY JOY: 
+### BONUS HAPPY HAPPY JOY JOY: 
 
 Functionality is the key and all that matters for grade. Can be ugly as all get out if works, but feel free to use basic BootStrap (https://getbootstrap.com/docs/4.3/getting-started/introduction/) to gussy things up. 
 
@@ -32,6 +32,8 @@ In addition to wrapping your page content in a ```<div class='container'>``` and
 
 https://www.dictionary.com/browse/gussy--up
 
+### Extra, Extra Bonus:
+Give me a way to export all this time card data as Comma Separated Values (CSV) so I can easily import into my other system.
 
 
 
