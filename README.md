@@ -1,10 +1,10 @@
 # Mini-Project Django
 
-THIS IS A SOLO PROJECT.
+THIS IS A MINI GROUP PROJECT. Do not share code with other groups.
 
 * A School needs a website to record the teaching time for each teacher to import it into an invoicing system. 
 
-* To do this, create an entirely new Django project from scratch. 
+* To do this, create an entirely new Django project from scratch (https://github.com/lucrae/django-cheat-sheet).
 
 * Make a site that will display and manage time card entries to/from a SQLite database. 
 
