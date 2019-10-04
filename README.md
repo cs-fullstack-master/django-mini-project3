@@ -31,7 +31,7 @@ Feel free to use your own CSS and/or basic BootStrap (https://getbootstrap.com/d
 In addition to wrapping your page content in a ```<div class='container'>``` and maybe throwing your header in a ```<h1 class='jumbotron'>```you might assign any HTML tables ```class='table'``` and any form submit buttons ```<input class="btn btn-primary" type="submit" value="Submit"/>``` for starters, then explore if u have time. You're welcome :-P 
 
 ### Extra, Extra Bonus:
-Give me a way to export all this time card data as Comma Separated Values (CSV) so I can easily import into my other system.
+Give me a way to export all this time card data as Comma Separated Values (CSV) so I can easily import into my other system (plenty of articles out there like this one https://realpython.com/read-write-files-python/ )
 
 
 
