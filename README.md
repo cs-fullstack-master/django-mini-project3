@@ -18,7 +18,7 @@ THIS IS A SOLO PROJECT.
 
 * For each entry displayed in any View, offer an option to edit or delete the entry in the form of hyperlink or button
 
-* Ask for a confirmation prior to deleting an entry and an ability for the User to abort/cancel the request and return to home page if they so choose.
+* Ask for a confirmation prior to deleting an entry and an ability for the User to abort/cancel the request and return to home page if they so choose (multiple ways to do this but you should consider this https://www.w3schools.com/jsref/met_win_confirm.asp )
 
 ================================================================
 
